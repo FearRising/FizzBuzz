@@ -1,8 +1,5 @@
 @@ -0,0 +1,85 @@
 import java.util.Scanner;
-/**
- * Created by Simon on 8/9/2015. What a waste of time that was...
- */
 /*
 public class FizzBuzz {
     public static void main(String[] args) {
